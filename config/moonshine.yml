@@ -6,7 +6,7 @@
 :self_signed: true
 :deploy_to: /srv/dc_hens
 :domain: dchens.org
-:repository: git@github.com:agiletoolkit/dc_hens.git
+:repository: git@github.com:agiletoolkit/dchens.git
 :shared_children:
 - system
 - log
